@@ -1,4 +1,0 @@
-stage,model,task_count,repeats_per_task,total_runs,end_to_end_success_rate,tool_failure_rate,artifact_failure_rate,human_grade_a_rate,three_run_all_success_rate,average_latency_seconds,p95_latency_seconds
-baseline,Qwen,12,3,36,83.3,6.8,8.3,,58.3,,86
-baseline,Doubao,12,3,36,77.8,10.9,13.9,,41.7,,74
-baseline,DeepSeek,12,3,36,80.6,8.1,11.1,,50.0,,102

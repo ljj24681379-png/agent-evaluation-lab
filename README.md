@@ -8,7 +8,7 @@
 |---:|---:|---:|---:|
 | **378** | **83.3% → 94.4%** | **6.8% → 2.9%** | **58.3% → 83.3%** |
 
-[打开可视化 Demo](app/index.html) · [评测设计](docs/evaluation-design.md) · [失败分类](docs/failure-taxonomy.md) · [模型选型](docs/model-selection.md)
+[在线 Demo](https://ljj24681379-png.github.io/agent-evaluation-lab/) · [本地 Demo](app/index.html) · [评测设计](docs/evaluation-design.md) · [失败分类](docs/failure-taxonomy.md) · [模型选型](docs/model-selection.md)
 
 **项目判断：** Agent 评测不能只看输出文本，而应该把工具调用、文件产物、重复稳定性、校验、修复和时延全部纳入同一条交付链路。
 
